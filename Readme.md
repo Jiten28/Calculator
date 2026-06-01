@@ -91,4 +91,5 @@ calculator/
 
 ## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
+© 2026 Jiten Kumar. All rights reserved.
+This project was created for personal and educational purposes. Feel free to use or learn from it, but please give credit if you share it.
